@@ -17,7 +17,7 @@
                         path: 'Nome',
                         formatter: '.formatter.toUpperCase'
                     }"
-				level="H2"/>
+				level="H1"/>
 		</semantic:titleHeading>
 
 		<semantic:headerContent>
